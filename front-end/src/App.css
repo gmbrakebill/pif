@@ -1,0 +1,44 @@
+
+
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+a {
+  color: #61dafb;
+}
+.center{
+ margin-left: auto;
+margin-right: auto;
+  width: 200px;
+  height: 500%;
+}
+.relative {
+  position: relative;
+  width: 50%;
+  bottom: 5px;
+  border: 3px solid #8AC007;
+} 
+
+.airmen {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+.data th {
+  border: 1px solid black;  
+}
+
+.data td {
+  border: 1px solid black;  
+}
+
+.container-fluid
+{
+  margin: right;
+}
